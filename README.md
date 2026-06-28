@@ -109,7 +109,7 @@ Ce projet consiste à concevoir une infrastructure Cloud sur AWS permettant de :
 
 ## Auteur
 
-**Ihab Hadaf**
+**Ihab Hadef**
 
 Étudiant en Génie Informatique  
 Spécialité : Systèmes, Réseaux et Cloud
