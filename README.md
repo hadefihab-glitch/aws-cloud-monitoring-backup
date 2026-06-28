@@ -62,49 +62,51 @@ Ce projet consiste à concevoir une infrastructure Cloud sur AWS permettant de :
 
 # Captures d'écran
 
+## Captures d'écran
+
 ### Création du VPC
 
-![](vpc.png)
+![](screenshots/vpc.png)
 
 ### Création des Subnets
 
-![](subnets.png)
+![](screenshots/subnets.png)
 
 ### Configuration des Tables de routage
 
-![](route-table.png)
+![](screenshots/route-table.png)
 
 ### Déploiement des instances EC2
 
-![](Ec2-instances.png)
+![](screenshots/Ec2-instances.png)
 
 ### Vérification du serveur Apache
 
-![](verification-Apach.png)
+![](screenshots/verification-Apach.png)
 
 ### Dashboard Zabbix
 
-![](zabbix-dashboard.png)
+![](screenshots/zabbix-dashboard.png)
 
 ### Configuration de l'hôte Apache dans Zabbix
 
-![](zabbix-hosts.png)
+![](screenshots/zabbix-hosts.png)
 
 ### Supervision du serveur Apache
 
-![](hoste-apache.png)
+![](screenshots/hoste-apache.png)
 
 ### Alarme Amazon CloudWatch
 
-![](cloudwatch-alarm.png)
+![](screenshots/cloudwatch-alarm.png)
 
 ### Configuration du rôle IAM
 
-![](iam-role.png)
+![](screenshots/iam-role.png)
 
 ### Création du Bucket Amazon S3
 
-![](S3-bucket.png)
+![](screenshots/S3-bucket.png)
 ---
 
 ## Auteur
